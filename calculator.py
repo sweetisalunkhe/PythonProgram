@@ -8,6 +8,7 @@ def sub(a,b):
     return c
 
 
+
 a= 10
 b=5
 print(f" addition of {a} and {b} is {add(a,b)}")
